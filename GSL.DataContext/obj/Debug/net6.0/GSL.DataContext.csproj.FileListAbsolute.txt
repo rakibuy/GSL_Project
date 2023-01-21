@@ -1,0 +1,68 @@
+E:\Practis\GLS\GSL.DataContext\bin\Debug\net6.0\GSL.DataContext.deps.json
+E:\Practis\GLS\GSL.DataContext\bin\Debug\net6.0\GSL.DataContext.dll
+E:\Practis\GLS\GSL.DataContext\bin\Debug\net6.0\GSL.DataContext.pdb
+E:\Practis\GLS\GSL.DataContext\obj\Debug\net6.0\GSL.DataContext.csproj.AssemblyReference.cache
+E:\Practis\GLS\GSL.DataContext\obj\Debug\net6.0\GSL.DataContext.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practis\GLS\GSL.DataContext\obj\Debug\net6.0\GSL.DataContext.AssemblyInfoInputs.cache
+E:\Practis\GLS\GSL.DataContext\obj\Debug\net6.0\GSL.DataContext.AssemblyInfo.cs
+E:\Practis\GLS\GSL.DataContext\obj\Debug\net6.0\GSL.DataContext.csproj.CoreCompileInputs.cache
+E:\Practis\GLS\GSL.DataContext\obj\Debug\net6.0\staticwebassets.build.json
+E:\Practis\GLS\GSL.DataContext\obj\Debug\net6.0\staticwebassets.development.json
+E:\Practis\GLS\GSL.DataContext\obj\Debug\net6.0\scopedcss\bundle\GSL.DataContext.styles.css
+E:\Practis\GLS\GSL.DataContext\obj\Debug\net6.0\GSL.DataContext.dll
+E:\Practis\GLS\GSL.DataContext\obj\Debug\net6.0\refint\GSL.DataContext.dll
+E:\Practis\GLS\GSL.DataContext\obj\Debug\net6.0\GSL.DataContext.pdb
+E:\Practis\GLS\GSL.DataContext\obj\Debug\net6.0\ref\GSL.DataContext.dll
+E:\Practis\GLS\GSL.DataContext\bin\Debug\net6.0\GSL.DataContext.runtimeconfig.json
+E:\Practis\GLS\GSL.DataContext\obj\Debug\net6.0\GSL.DataContext.genruntimeconfig.cache
+E:\Practis\GSL\GSL.DataContext\bin\Debug\net6.0\GSL.DataContext.deps.json
+E:\Practis\GSL\GSL.DataContext\bin\Debug\net6.0\GSL.DataContext.runtimeconfig.json
+E:\Practis\GSL\GSL.DataContext\bin\Debug\net6.0\GSL.DataContext.dll
+E:\Practis\GSL\GSL.DataContext\bin\Debug\net6.0\GSL.DataContext.pdb
+E:\Practis\GSL\GSL.DataContext\obj\Debug\net6.0\GSL.DataContext.csproj.AssemblyReference.cache
+E:\Practis\GSL\GSL.DataContext\obj\Debug\net6.0\GSL.DataContext.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practis\GSL\GSL.DataContext\obj\Debug\net6.0\GSL.DataContext.AssemblyInfoInputs.cache
+E:\Practis\GSL\GSL.DataContext\obj\Debug\net6.0\GSL.DataContext.AssemblyInfo.cs
+E:\Practis\GSL\GSL.DataContext\obj\Debug\net6.0\GSL.DataContext.csproj.CoreCompileInputs.cache
+E:\Practis\GSL\GSL.DataContext\obj\Debug\net6.0\staticwebassets.build.json
+E:\Practis\GSL\GSL.DataContext\obj\Debug\net6.0\staticwebassets.development.json
+E:\Practis\GSL\GSL.DataContext\obj\Debug\net6.0\scopedcss\bundle\GSL.DataContext.styles.css
+E:\Practis\GSL\GSL.DataContext\obj\Debug\net6.0\GSL.DataContext.dll
+E:\Practis\GSL\GSL.DataContext\obj\Debug\net6.0\refint\GSL.DataContext.dll
+E:\Practis\GSL\GSL.DataContext\obj\Debug\net6.0\GSL.DataContext.pdb
+E:\Practis\GSL\GSL.DataContext\obj\Debug\net6.0\GSL.DataContext.genruntimeconfig.cache
+E:\Practis\GSL\GSL.DataContext\obj\Debug\net6.0\ref\GSL.DataContext.dll
+F:\projectFinal\DemoSetup\GSL.DataContext\bin\Debug\net6.0\GSL.DataContext.deps.json
+F:\projectFinal\DemoSetup\GSL.DataContext\bin\Debug\net6.0\GSL.DataContext.runtimeconfig.json
+F:\projectFinal\DemoSetup\GSL.DataContext\bin\Debug\net6.0\GSL.DataContext.dll
+F:\projectFinal\DemoSetup\GSL.DataContext\bin\Debug\net6.0\GSL.DataContext.pdb
+F:\projectFinal\DemoSetup\GSL.DataContext\obj\Debug\net6.0\GSL.DataContext.csproj.AssemblyReference.cache
+F:\projectFinal\DemoSetup\GSL.DataContext\obj\Debug\net6.0\GSL.DataContext.GeneratedMSBuildEditorConfig.editorconfig
+F:\projectFinal\DemoSetup\GSL.DataContext\obj\Debug\net6.0\GSL.DataContext.AssemblyInfoInputs.cache
+F:\projectFinal\DemoSetup\GSL.DataContext\obj\Debug\net6.0\GSL.DataContext.AssemblyInfo.cs
+F:\projectFinal\DemoSetup\GSL.DataContext\obj\Debug\net6.0\GSL.DataContext.csproj.CoreCompileInputs.cache
+F:\projectFinal\DemoSetup\GSL.DataContext\obj\Debug\net6.0\staticwebassets.build.json
+F:\projectFinal\DemoSetup\GSL.DataContext\obj\Debug\net6.0\staticwebassets.development.json
+F:\projectFinal\DemoSetup\GSL.DataContext\obj\Debug\net6.0\scopedcss\bundle\GSL.DataContext.styles.css
+F:\projectFinal\DemoSetup\GSL.DataContext\obj\Debug\net6.0\GSL.DataContext.dll
+F:\projectFinal\DemoSetup\GSL.DataContext\obj\Debug\net6.0\refint\GSL.DataContext.dll
+F:\projectFinal\DemoSetup\GSL.DataContext\obj\Debug\net6.0\GSL.DataContext.pdb
+F:\projectFinal\DemoSetup\GSL.DataContext\obj\Debug\net6.0\GSL.DataContext.genruntimeconfig.cache
+F:\projectFinal\DemoSetup\GSL.DataContext\obj\Debug\net6.0\ref\GSL.DataContext.dll
+D:\Goldsands Hotel\GSL_Project\GSL.DataContext\bin\Debug\net6.0\GSL.DataContext.deps.json
+D:\Goldsands Hotel\GSL_Project\GSL.DataContext\bin\Debug\net6.0\GSL.DataContext.runtimeconfig.json
+D:\Goldsands Hotel\GSL_Project\GSL.DataContext\bin\Debug\net6.0\GSL.DataContext.dll
+D:\Goldsands Hotel\GSL_Project\GSL.DataContext\bin\Debug\net6.0\GSL.DataContext.pdb
+D:\Goldsands Hotel\GSL_Project\GSL.DataContext\obj\Debug\net6.0\GSL.DataContext.csproj.AssemblyReference.cache
+D:\Goldsands Hotel\GSL_Project\GSL.DataContext\obj\Debug\net6.0\GSL.DataContext.GeneratedMSBuildEditorConfig.editorconfig
+D:\Goldsands Hotel\GSL_Project\GSL.DataContext\obj\Debug\net6.0\GSL.DataContext.AssemblyInfoInputs.cache
+D:\Goldsands Hotel\GSL_Project\GSL.DataContext\obj\Debug\net6.0\GSL.DataContext.AssemblyInfo.cs
+D:\Goldsands Hotel\GSL_Project\GSL.DataContext\obj\Debug\net6.0\GSL.DataContext.csproj.CoreCompileInputs.cache
+D:\Goldsands Hotel\GSL_Project\GSL.DataContext\obj\Debug\net6.0\staticwebassets.build.json
+D:\Goldsands Hotel\GSL_Project\GSL.DataContext\obj\Debug\net6.0\staticwebassets.development.json
+D:\Goldsands Hotel\GSL_Project\GSL.DataContext\obj\Debug\net6.0\scopedcss\bundle\GSL.DataContext.styles.css
+D:\Goldsands Hotel\GSL_Project\GSL.DataContext\obj\Debug\net6.0\GSL.DataContext.dll
+D:\Goldsands Hotel\GSL_Project\GSL.DataContext\obj\Debug\net6.0\refint\GSL.DataContext.dll
+D:\Goldsands Hotel\GSL_Project\GSL.DataContext\obj\Debug\net6.0\GSL.DataContext.pdb
+D:\Goldsands Hotel\GSL_Project\GSL.DataContext\obj\Debug\net6.0\GSL.DataContext.genruntimeconfig.cache
+D:\Goldsands Hotel\GSL_Project\GSL.DataContext\obj\Debug\net6.0\ref\GSL.DataContext.dll
